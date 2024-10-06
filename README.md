@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/elections-ad-campaign.git
+git clone https://github.com/sadhu-07/elections-ad-campaign.git
 cd elections-ad-campaign
 Install the required Python packages:
 
